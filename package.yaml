@@ -1,0 +1,7 @@
+config_version : 0
+version: 1.0.8
+name: color
+authors:
+
+commands:
+- export OCIO=!ROOT!/config.ocio
